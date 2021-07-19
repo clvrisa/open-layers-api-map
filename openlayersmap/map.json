@@ -1,0 +1,62 @@
+[
+	{
+		"title": "Haku Sushi",
+		"lat": 38.4428649,
+		"lng": -122.7173219,
+		"description": "<h3>Haku Sushi</h3><p>Casual Japanese restaurant with kitchen<br> entrees & sushi, including many specialty rolls.</p><p><a href=\"http://haku-sushi.cafe-inspector.com\"target=\"_blank\">Menu</a></p>"
+	},
+	{
+		"title": "The Spinster Sisters",
+		"lat": 38.435819,
+		"lng": -122.7171972,
+		"description": "<h3>The Spinster Sisters</h3><p>Restaurant offering modern American meals,<br> happy hours & weekend brunch.</p><p><a href=\"https://app.upserve.com/s/the-spinster-sisters-santa-rosa\" target=\"_blank\">Wikipedia</a></p>"
+	},
+	{
+		"title": "Ca'Bianca",
+		"lat": 38.4424456,
+		"lng": -122.712739,
+		"description": "<h3>Ca'Bianca</h3><p>Charming Italian restaurant elegantly set <br>in a 19th-century house with a full bar,<br> patios & gardens.</p><p><a href=\"http://places.singleplatform.com/cabianca-ristorante-italiano/menu?ref=google\"target=\"_blank\">Menu</a></p>"
+	},
+	{
+		"title": "Criminal Baking Co.",
+		"lat": 38.439794,
+		"lng": -122.7246562,
+		"description": "<h3>Criminal Baking Co.</h3><p>Daytime bakery serving breakfast bowls, <br>sandwiches, cakes & pastries in snug, <br>homey surrounds.</p><p><a href=\"https://www.criminalbaking.com\"target=\"_blank\">Website</a></p>"
+	},
+  	{
+		"title": "Russian River Brewery",
+		"lat": 38.441523,
+		"lng": -122.7162858,
+		"description": "<h3>Russian River Brewery</h3><p>Lively haunt with a homey <br>feel supplying specialty pizza,<br> pub grub & California-style<br> ales.</p><p><a href=\"https://www.russianriverbrewing.com/santa-rosa-pub-menu\"target=\"_blank\">Menu</a></p>"
+	},
+  	{
+		"title": "Bird & The Bottle",
+		"lat": 38.4421779,
+		"lng": -122.7096519,
+		"description": "<h3>Bird & The Bottle</h3><p>Upscale Southern & Asian flavors <br>served in stylish quarters with<br> vintage accents & outdoor patio.</p><p><a href=\"https://www.birdandthebottle.com/?menu=tab1\"target=\"_blank\">Menu</a></p>"
+	},
+  	{
+		"title": "Riviera Ristorante",
+		"lat": 38.4418839,
+		"lng": -122.7079691,
+		"description": "<h3>Riviera Ristorante</h3><p>Veteran, family-run spot serving <br>Cali-inspired Italian faves in <Br>a cycling-themed space with <br>a patio.</p><p><a href=\"https://www.rivieraristorante.net/dinner_menu.html\"target=\"_blank\">Menu</a></p>"
+	},
+  	{
+		"title": "Chelino's",
+		"lat": 38.445088,
+		"lng": -122.707543,
+		"description": "<h3>Chelino's</h3><p>Unfussy, family-owned counter-order<Br> eatery preparing homestyle Mexican<br> favorites.</p><p><a href=\"http://www.chelinosrestaurant.com/menu\"target=\"_blank\">Menu</a></p>"
+	},
+  	{
+		"title": "Rosso",
+		"lat": 38.4418613,
+		"lng": -122.7094081,
+		"description": "<h3>Rosso</h3><p>Unassuming eatery offering inventive <br>wood-fired Neapolitan pizzas paired <br>with eco-friendly wines.</p><p><a href=\"http://places.singleplatform.com/rosso-pizzeria--wine-bar/menu?ref=google\"target=\"_blank\">Menu</a></p>"
+	},
+  	{
+		"title": "Stark's Steack & Seafood",
+		"lat": 38.4371227,
+		"lng": -122.7228098,
+		"description": "<h3>Stark's Steack & Seafood</h3><p>Classic steakhouse offering dry-aged <br>cuts, seafood & whiskeys galore <br>amid dark woods & brick wall</p><p><a href=\"https://starkrestaurants.com/stark-restaurant/starks-steak-seafood/?menu=tab1\"target=\"_blank\">Menu</a></p>"
+	}
+]
